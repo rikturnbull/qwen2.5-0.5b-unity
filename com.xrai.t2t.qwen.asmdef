@@ -1,0 +1,7 @@
+{
+	"name": "com.xrai.t2t.qwen",
+	"autoReferenced": true
+	"references": [
+		"Unity.InferenceEngine"
+	]
+}

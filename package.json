@@ -1,0 +1,10 @@
+{
+  "name": "com.xrai.t2t.qwen",
+  "version": "1.0.0",
+  "displayName": "XRAI Qwen Plugin",
+  "description": "A Qwen Plugin for XR AI accelerator.",
+  "dependencies": {
+    "com.openai.unity": "8.8.1",
+    "com.unity.ai.inference": "2.2.1"
+  }
+}
